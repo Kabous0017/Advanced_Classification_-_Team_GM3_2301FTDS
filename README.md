@@ -35,4 +35,4 @@ The following libraries need to be installed, but can be done so by following th
 2) Explore the Jupyter notebooks `FinalNotebook.ipynb` to understand the data preprocessing, feature engineering, and model development steps.
 
 ### Known Bugs
-The notebook sometimes fails to render on GitHub, sue to the size and images contained within. If this is the case, please find a fully rendered version [here] (https://nbviewer.org/github/Kabous0017/Advanced_Classification_-_Team_GM3_2301FTDS/blob/409ce1edd6ae8b6fe3adfc348d56fb5ad717f832/starter-notebook.ipynb)
+The notebook sometimes fails to render on GitHub, sue to the size and images contained within. If this is the case, please find a fully rendered version [here] (https://nbviewer.org/github/Kabous0017/Advanced_Classification_-_Team_GM3_2301FTDS/blob/e2210041ba9a2083b44f795fc00feba5a68fa145/FinalNotebook.ipynb)
